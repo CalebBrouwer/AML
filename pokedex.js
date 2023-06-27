@@ -5724,6 +5724,7 @@ exports.BattlePokedex = {
         "tier": "Illegal",
         "isNonstandard": "Past"
     },
+     mrmimegalar:{num:122,name:"Mr. Mime-Galar",baseSpecies:"Mr. Mime",forme:"Galar",types:["Ice","Psychic"],baseStats:{hp:50,atk:65,def:65,spa:90,spd:90,spe:100},abilities:{"0":"Vital Spirit","1":"Screen Cleaner",H:"Ice Body"},heightm:1.4,weightkg:56.8,color:"White",prevo:"Mime Jr.",evoType:"levelMove",evoMove:"Mimic",evoRegion:"Galar",evos:["Mr. Rime"],eggGroups:["Human-Like"],canHatch:true,tier:"Illegal",isNonstandard:"Past"},mrmimegalar:{num:122,name:"Mr. Mime-Galar",baseSpecies:"Mr. Mime",forme:"Galar",types:["Ice","Psychic"],baseStats:{hp:50,atk:65,def:65,spa:90,spd:90,spe:100},abilities:{"0":"Vital Spirit","1":"Screen Cleaner",H:"Ice Body"},heightm:1.4,weightkg:56.8,color:"White",prevo:"Mime Jr.",evoType:"levelMove",evoMove:"Mimic",evoRegion:"Galar",evos:["Mr. Rime"],eggGroups:["Human-Like"],canHatch:true,tier:"Illegal",isNonstandard:"Past"},
     "scyther": {
         "num": 123,
         "name": "Scyther",
